@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="relative h-screen w-full flex flex-col items-center justify-center text-center overflow-hidden">
       <Image
-        src="https://images.unsplash.com/photo-1590216797705-d36c243f606e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx2aWV3JTIwb2YlMjBlYXJ0aCUyMGFuZCUyMHNhdGVsbGl0ZXxlbnwwfHx8fDE3NTk4NDQwMDd8MA&ixlib=rb-4.1.0&q=80&w=1080"
+        src="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=2672&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         alt="View of Earth and satellite"
         fill
         className="object-cover -z-10 brightness-50"
