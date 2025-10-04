@@ -14,7 +14,7 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function PaperDetailPage({ params }: PaperDetailPageProps) {
+export default async function PaperDetailPage({ params }: PaperDetailPageProps) {
   const paper = papers.find((p) => p.id === params.id);
 
   if (!paper) {
