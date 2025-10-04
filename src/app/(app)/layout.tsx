@@ -3,5 +3,5 @@ export default function AppLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return <div className="p-4 sm:p-6 lg:p-8 pt-24">{children}</div>;
+  return <div className="p-4 sm:p-6 lg:p-8">{children}</div>;
 }

@@ -11,7 +11,7 @@ type PaperDetailClientProps = {
 
 export default function PaperDetailClient({ paper }: PaperDetailClientProps) {
   return (
-    <article className="max-w-4xl mx-auto">
+    <article className="max-w-4xl mx-auto pt-8">
       <header className="mb-8">
         <h1 className="font-headline text-3xl font-bold tracking-tight text-foreground sm:text-4xl">
           {paper.title}
