@@ -13,10 +13,10 @@ export default function Home() {
         className="object-cover -z-10 brightness-50"
       />
       <div className="container mx-auto px-4 z-10">
-        <h1 className="text-4xl sm:text-5xl md:text-6xl font-headline font-bold text-white mb-4">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-headline font-bold text-white mb-4">
           ORG_INSIGHT: The Future of Space Biology Research
         </h1>
-        <p className="text-lg sm:text-xl md:text-2xl text-slate-200 max-w-3xl mx-auto mb-8">
+        <p className="text-md sm:text-lg md:text-xl text-slate-200 max-w-3xl mx-auto mb-8">
           Explore the frontiers of how life adapts beyond Earth. Our platform provides AI-powered access to cutting-edge research on how spaceflight affects living organisms.
         </p>
         <Button asChild size="lg">
