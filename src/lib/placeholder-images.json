@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "paper-1",
+      "description": "An abstract visualization of extremophiles or microscopic life in a harsh, alien environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1535127022272-dbe7ee35cf33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxuZWJ1bGElMjBtaWNyb2Jpb2xvZ3l8ZW58MHx8fHwxNzU5NTcxNDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nebula microbiology"
+    },
+    {
+      "id": "paper-2",
+      "description": "An artistic rendering of an exoplanet with atmospheric layers, hinting at biosignatures.",
+      "imageUrl": "https://images.unsplash.com/photo-1709142221200-1a8a73fced2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZXhvcGxhbmV0JTIwYXRtb3NwaGVyZXxlbnwwfHx8fDE3NTk1NzE0ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "exoplanet atmosphere"
+    },
+    {
+      "id": "paper-3",
+      "description": "An abstract image combining water molecules and a DNA helix against a cosmic background.",
+      "imageUrl": "https://images.unsplash.com/photo-1703994643609-921a6d54bbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxkbmElMjBzcGFjZXxlbnwwfHx8fDE3NTk1NzE0ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dna space"
+    }
+  ]
 }
