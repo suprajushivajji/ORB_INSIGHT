@@ -33,7 +33,7 @@
     {
       "id": "paper-6",
       "description": "A 3D model of a mouse brain with highlighted protein structures, floating in zero gravity.",
-      "imageUrl": "https://images.unsplash.com/photo-1559757175-26a455502758?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3VzZSUyMGJyYWlufGVufDB8fHx8fDE3NjAwMzM5Mjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1635783229650-22781bbf1a63?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwcm90ZW9taWN8ZW58MHx8fHwxNzU5NTg4MjYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mouse brain"
     },
     {
@@ -45,19 +45,19 @@
     {
       "id": "paper-8",
       "description": "A translucent snail showing its statocyst system, with directional arrows indicating gravitational disorientation.",
-      "imageUrl": "https://images.unsplash.com/photo-1543297123-5a49873b8e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbmFpbCUyMHNwYWNlfGVufDB8fHx8MTc2MDAzNDA4NHww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1543297123-5a49873b8e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbmFpbCUyMHNwYWNlfGVufDB8fHx8MTc2MDAzNDA4NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "space snail"
     },
     {
       "id": "paper-9",
       "description": "Illustration of a Natural Killer (NK) cell failing to attack a leukemia cell in a microgravity environment.",
-      "imageUrl": "https://images.unsplash.com/photo-1606208197889-f4e8f1894d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8Y3l0b3RveGljfGVufDB8fHx8MTc1OTU4Mzc0M3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1606208197889-f4e8f1894d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8Y3l0b3RveGljfGVufDB8fHx8MTc1OTU4Mzc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "immune cells"
     },
     {
       "id": "paper-10",
       "description": "A futuristic 'lab-on-a-chip' device floating in front of a Martian landscape, displaying diagnostic data.",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGV0ZWN0aW9uJTIwc3BhY2V8ZW58MHx8fHwxNzYwMDM0MTk0fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGV0ZWN0aW9uJTIwc3BhY2V8ZW58MHx8fHwxNzYwMDM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "biosensor space"
     }
   ]
