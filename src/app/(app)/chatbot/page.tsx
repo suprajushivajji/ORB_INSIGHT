@@ -10,7 +10,7 @@ type ChatbotPageProps = {
 export default function ChatbotPage({ searchParams }: ChatbotPageProps) {
   const { paperId } = searchParams;
   let context = '';
-  let initialMessage = "Hello! I'm ORG_INSIGHT's AI. You can ask me questions about space biology and the research papers in our archive.";
+  let initialMessage = "Hello! I'm ORB_INSIGHT's AI. You can ask me questions about space biology and the research papers in our archive.";
   let paperTitle: string | undefined = undefined;
 
   if (paperId) {

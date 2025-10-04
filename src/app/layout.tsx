@@ -7,7 +7,7 @@ import Link from 'next/link';
 import { BotMessageSquare } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'ORG_INSIGHT',
+  title: 'ORB_INSIGHT',
   description: 'AI-powered research assistant for space biology.',
 };
 

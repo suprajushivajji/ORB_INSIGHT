@@ -14,7 +14,7 @@ export default function AppHeader() {
       <div className="container mx-auto flex h-16 items-center justify-between px-4">
         <Link href="/" className="flex items-center gap-2">
           <Logo className="w-8 h-8 text-primary" />
-          <span className="font-headline text-xl font-semibold text-white">ORG_INSIGHT</span>
+          <span className="font-headline text-xl font-semibold text-white">ORB_INSIGHT</span>
         </Link>
         <nav>
           <ul className="flex items-center gap-6">
