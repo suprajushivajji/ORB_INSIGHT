@@ -6,6 +6,8 @@ import { Button } from '@/components/ui/button';
 import { BotMessageSquare, ExternalLink, Sparkles } from 'lucide-react';
 import Link from 'next/link';
 import OrbitalSpinner from './OrbitalSpinner';
+import { researchSummary } from '@/ai/flows/research-summary';
+import { useToast } from '@/hooks/use-toast';
 
 type PaperDetailClientProps = {
   paper: ResearchPaper;
@@ -14,14 +16,24 @@ type PaperDetailClientProps = {
 export default function PaperDetailClient({ paper }: PaperDetailClientProps) {
   const [isSummarizing, setIsSummarizing] = useState(false);
   const [summary, setSummary] = useState('');
+  const { toast } = useToast();
 
-  const handleSummarize = () => {
+  const handleSummarize = async () => {
     setIsSummarizing(true);
     setSummary('');
-    setTimeout(() => {
-      setSummary(paper.content);
+    try {
+      const result = await researchSummary({ paperContent: paper.content });
+      setSummary(result.summary);
+    } catch (error) {
+      console.error('Error generating summary:', error);
+      toast({
+        variant: 'destructive',
+        title: 'Error',
+        description: 'Could not generate summary. Please try again.',
+      });
+    } finally {
       setIsSummarizing(false);
-    }, 3000);
+    }
   };
 
   return (
