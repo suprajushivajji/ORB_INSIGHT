@@ -3,62 +3,62 @@
     {
       "id": "paper-1",
       "description": "Arabidopsis plant with glowing highlights on its leaves, symbolizing epigenomic regulation, against a backdrop of stars.",
-      "imageUrl": "https://images.unsplash.com/photo-1615853623420-ad2060722a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzcGFjZSUyMHBsYW50fGVufDB8fHx8MTc1OTU3MzAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1525498269228-b8a9a55740b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcmFiaWRvcHNpcyUyMHRoYWxpYW5hJTIwaW4lMjBzcGFjZXxlbnwwfHx8fDE3NjAwMzM1MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "space plant"
     },
     {
       "id": "paper-2",
       "description": "A plant sprouting from lunar soil inside a futuristic biodome on the moon's surface.",
-      "imageUrl": "https://images.unsplash.com/photo-1629250997187-598739d5646f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb29uJTIwcGxhbnR8ZW58MHx8fHwxNzU5NDgzNzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1610231903388-34f7188b13cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb29uJTIwcGxhbnR8ZW58MHx8fHwxNzYwMDMzNjE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "moon plant"
     },
     {
       "id": "paper-3",
       "description": "An illustration of a fruit fly (Drosophila melanogaster) with a brain scan overlay, inside a spinning centrifuge representing artificial gravity.",
-      "imageUrl": "https://images.unsplash.com/photo-1605507139485-d0a835ec559d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzcGFjZSUyMGZseXxlbnwwfHx8fDE3NTk1NzMwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "space fly"
+      "imageUrl": "https://images.unsplash.com/photo-1579705743438-42ea4c6a6663?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkcG9yc29waGlsYSUyMG1lbGFub2dhc3RlcnxlbnwwfHx8fDE3NjAwMzM2ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit fly"
     },
     {
       "id": "paper-4",
       "description": "Microscopic view of mouse liver cells with glowing autophagosomes, with the Earth visible through a space station window in the background.",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjZWxsJTIwYmlvbG9neXxlbnwwfHx8fDE3NTk0NzA2NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "cell biology"
+      "imageUrl": "https://images.unsplash.com/photo-1633613286847-f49a26388481?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3VzZSUyMGxpdmVyJTIwY2VsbHN8ZW58MHx8fHwxNzYwMDMzNzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "liver cells"
     },
     {
       "id": "paper-5",
       "description": "A stylized human figure with a double helix, shielded from cosmic radiation in deep space.",
-      "imageUrl": "https://images.unsplash.com/photo-1672980818038-8636473c61eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzcGFjZSUyMHJhZGlhdGlvbnxlbnwwfHx8fDE3NTk1NzMwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "space radiation"
+      "imageUrl": "https://images.unsplash.com/photo-1506102383123-c8ef1e872756?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGglMjBzcGFjZXxlbnwwfHx8fDE3NjAwMzM4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "space health"
     },
     {
       "id": "paper-6",
       "description": "A 3D model of a mouse brain with highlighted protein structures, floating in zero gravity.",
-      "imageUrl": "https://images.unsplash.com/photo-1647613561332-3d88a6a0048e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxicmFpbiUyMHByb3Rlb21pY3N8ZW58MHx8fHwxNzU5NTczMDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "brain proteomics"
+      "imageUrl": "https://images.unsplash.com/photo-1559757175-26a455502758?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3VzZSUyMGJyYWlufGVufDB8fHx8MTc2MDAzMzkyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mouse brain"
     },
     {
       "id": "paper-7",
       "description": "An EKG heartbeat line merging with the trajectory of the ISS orbiting Earth, focused on the heart.",
-      "imageUrl": "https://images.unsplash.com/photo-1553643708-aec66e92104b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzcGFjZSUyMGhlYXJ0fGVufDB8fHx8MTc1OTU3MzAwOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "space heart"
+      "imageUrl": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3VzZSUyMGhlYXJ0fGVufDB8fHx8fDE3NjAwMzQwMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mouse heart"
     },
     {
       "id": "paper-8",
       "description": "A translucent snail showing its statocyst system, with directional arrows indicating gravitational disorientation.",
-      "imageUrl": "https://images.unsplash.com/photo-1569874819373-a9cfff2607a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxncmF2aXR5JTIwc25haWx8ZW58MHx8fHwxNzU5NTczMDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "gravity snail"
+      "imageUrl": "https://images.unsplash.com/photo-1543297123-5a49873b8e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbmFpbCUyMHNwYWNlfGVufDB8fHx8MTc2MDAzNDA4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "space snail"
     },
     {
       "id": "paper-9",
       "description": "Illustration of a Natural Killer (NK) cell failing to attack a leukemia cell in a microgravity environment.",
-      "imageUrl": "https://images.unsplash.com/photo-1706639996436-3c90695c7dd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbW11bmUlMjBjZWxsc3xlbnwwfHx8fDE3NTk1MzE3MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1578505314545-257a44a7f14b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxOSyUyMGNlbGx8ZW58MHx8fHwxNzYwMDM0MTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "immune cells"
     },
     {
       "id": "paper-10",
       "description": "A futuristic 'lab-on-a-chip' device floating in front of a Martian landscape, displaying diagnostic data.",
-      "imageUrl": "https://images.unsplash.com/photo-1656381620321-bddff61435c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzcGFjZSUyMGJpb3NlbnNvcnxlbnwwfHx8fDE3NTk1NzMwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "space biosensor"
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGV0ZWN0aW9uJTIwc3BhY2V8ZW58MHx8fHwxNzYwMDM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "biosensor space"
     }
   ]
 }
