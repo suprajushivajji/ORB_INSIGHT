@@ -27,7 +27,7 @@ export default function PapersPage() {
   }, [searchQuery]);
 
   return (
-    <div className="space-y-8">
+    <div className="space-y-8 pt-16">
       <div>
         <h1 className="text-3xl font-headline font-bold text-foreground sm:text-4xl md:text-5xl">
           Research Archive

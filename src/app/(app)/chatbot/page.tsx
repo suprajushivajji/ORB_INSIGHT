@@ -10,7 +10,7 @@ type ChatbotPageProps = {
 export default function ChatbotPage({ searchParams }: ChatbotPageProps) {
   const { paperId } = searchParams;
   let context = '';
-  let initialMessage = "Hello! I'm AstroResearchAI. You can ask me questions about space biology and the research papers in our archive.";
+  let initialMessage = "Hello! I'm ORG_INSIGHT's AI. You can ask me questions about space biology and the research papers in our archive.";
   let paperTitle: string | undefined = undefined;
 
   if (paperId) {
@@ -29,7 +29,7 @@ export default function ChatbotPage({ searchParams }: ChatbotPageProps) {
   }
 
   return (
-    <div className="h-[calc(100vh-8rem)] flex flex-col">
+    <div className="h-[calc(100vh-8rem)] flex flex-col pt-16">
         <header className="mb-4">
             <h1 className="text-3xl font-headline font-bold text-foreground sm:text-4xl">
               AI Research Assistant
