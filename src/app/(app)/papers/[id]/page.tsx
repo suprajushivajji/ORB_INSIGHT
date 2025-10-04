@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { papers } from '@/lib/data';
 import { Button } from '@/components/ui/button';
-import { Download, BotMessageSquare } from 'lucide-react';
+import { Eye, BotMessageSquare } from 'lucide-react';
 import Link from 'next/link';
 
 type PaperDetailPageProps = {
@@ -37,9 +37,9 @@ export default function PaperDetailPage({ params }: PaperDetailPageProps) {
       </header>
 
       <div className="flex flex-wrap gap-4 mb-8">
-        <Button disabled>
-          <Download />
-          Download PDF
+        <Button onClick={() => window.print()}>
+          <Eye />
+          View PDF
         </Button>
         <Button asChild variant="outline">
           <Link href={`/chatbot?paperId=${paper.id}`}>
