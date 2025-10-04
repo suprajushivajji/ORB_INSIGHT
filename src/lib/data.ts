@@ -19,7 +19,7 @@ export const papers: ResearchPaper[] = [
     content: 'This study delves into the molecular mechanisms of plant adaptation to spaceflight, focusing on the epigenetic regulators ELP2 and MTE1 in Arabidopsis thaliana. By analyzing genome-wide methylation patterns and transcriptomic data from plants grown on the ISS, we show that these regulators play differential roles in orchestrating the plant\'s response to microgravity and space radiation, impacting stress pathways and developmental processes.',
     imageUrl: findImage('paper-1').url,
     imageHint: findImage('paper-1').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8475764/',
   },
   {
     id: '2',
@@ -30,7 +30,7 @@ export const papers: ResearchPaper[] = [
     content: 'For the first time, we have successfully germinated and grown plants in lunar regolith. Transcriptomic analysis of Arabidopsis thaliana grown in this extraterrestrial soil reveals massive upregulation of genes associated with salt, metal, and oxidative stress. While the plants showed stunted growth, their ability to survive and establish metabolic activity offers critical insights for developing strategies to support agriculture in future lunar habitats.',
     imageUrl: findImage('paper-2').url,
     imageHint: findImage('paper-2').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9098553/',
   },
   {
     id: '3',
@@ -41,7 +41,7 @@ export const papers: ResearchPaper[] = [
     content: 'Drosophila melanogaster subjected to microgravity on the ISS exhibit significant deficits in climbing behavior and circadian rhythm. This study utilized a centrifuge to provide variable artificial gravity. Our findings indicate that even partial gravity exposure (0.5g) for short durations can partially rescue these neurological impairments, suggesting it as a viable countermeasure for long-duration space missions.',
     imageUrl: findImage('paper-3').url,
     imageHint: findImage('paper-3').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10503492/',
   },
   {
     id: '4',
@@ -52,7 +52,7 @@ export const papers: ResearchPaper[] = [
     content: 'Proteomic and transcriptomic analysis of liver tissue from mice flown on the International Space Station shows a significant upregulation of pathways related to autophagy and the ubiquitin-proteasome system. This suggests a cellular-level response to manage damaged proteins and organelles resulting from spaceflight-induced stress, providing new targets for countermeasures against liver damage during long missions.',
     imageUrl: findImage('paper-4').url,
     imageHint: findImage('paper-4').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5666744/',
   },
   {
     id: '5',
@@ -63,7 +63,7 @@ export const papers: ResearchPaper[] = [
     content: 'Deep space exploration is limited by the health risks of galactic cosmic radiation. This review connects the molecular hallmarks of aging with the mechanisms of radiation damage. We propose that therapies targeting aging, such as senolytics and NAD+ boosters, could enhance cellular repair and stress resistance, thereby increasing human radioresistance for missions to Mars and beyond.',
     imageUrl: findImage('paper-5').url,
     imageHint: findImage('paper-5').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5865701/',
   },
   {
     id: '6',
@@ -74,7 +74,7 @@ export const papers: ResearchPaper[] = [
     content: 'Using mass spectrometry-based proteomics, we analyzed brain tissue from mice after a 30-day mission on the ISS. We identified significant alterations in protein expression in the hippocampus and cortex, particularly proteins involved in synaptic function and mitochondrial metabolism. These changes correlate with observed cognitive and behavioral deficits and point to potential risks for astronauts.',
     imageUrl: findImage('paper-6').url,
     imageHint: findImage('paper-6').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6337482/',
   },
   {
     id: '7',
@@ -85,7 +85,7 @@ export const papers: ResearchPaper[] = [
     content: 'RNA-sequencing of cardiac tissue from space-flown mice revealed significant downregulation of genes related to mitochondrial energy production and upregulation of genes associated with cardiac fibrosis and muscle atrophy. These findings provide a molecular basis for the cardiac deconditioning observed in astronauts and highlight the need for effective exercise countermeasures.',
     imageUrl: findImage('paper-7').url,
     imageHint: findImage('paper-7').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9953463/',
   },
   {
     id: '8',
@@ -96,7 +96,7 @@ export const papers: ResearchPaper[] = [
     content: 'By recording neural activity from the statocysts of snails during parabolic flight, we observed rapid adaptation of the gravity-sensing neurons. The system recalibrates its baseline firing rate, demonstrating remarkable plasticity. This simple model helps us understand how more complex vestibular systems, like those in humans, might adapt to the absence of gravity.',
     imageUrl: findImage('paper-8').url,
     imageHint: findImage('paper-8').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3066201/',
   },
   {
     id: '9',
@@ -107,7 +107,7 @@ export const papers: ResearchPaper[] = [
     content: 'Human Natural Killer (NK) cells were cultured in a random positioning machine to simulate microgravity. We found that their cytotoxic function against K562 leukemia cells was significantly impaired. This immune dysfunction, coupled with the known carcinogenic risks of space radiation, highlights a critical health concern for astronauts on long-duration missions.',
     imageUrl: findImage('paper-9').url,
     imageHint: findImage('paper-9').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11324864/',
   },
   {
     id: '10',
@@ -118,6 +118,6 @@ export const papers: ResearchPaper[] = [
     content: 'Miniaturized analytical devices, including electrochemical biosensors and microfluidic lab-on-a-chip systems, are critical for the future of space exploration. This review covers their application in monitoring astronaut health, analyzing water and air quality, and searching for molecular biosignatures in extraterrestrial samples. We discuss the challenges of adapting these technologies for the harsh environment of space.',
     imageUrl: findImage('paper-10').url,
     imageHint: findImage('paper-10').hint,
-    pdfUrl: '#',
+    pdfUrl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8430797/',
   }
 ];
