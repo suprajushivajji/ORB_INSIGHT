@@ -21,7 +21,7 @@
     {
       "id": "paper-4",
       "description": "Microscopic view of mouse liver cells with glowing autophagosomes, with the Earth visible through a space station window in the background.",
-      "imageUrl": "https://images.unsplash.com/photo-1633613286847-f49a26388481?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtb3VzZSUyMGxpdmVyJTIwY2VsbHN8ZW58MHx8fHwxNzYwMDMzNzQ2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1614728994041-9a7ce006c57e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzcGFjZWZsaWdodHxlbnwwfHx8fDE3NTk1ODQzOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "liver cells"
     },
     {
@@ -45,19 +45,19 @@
     {
       "id": "paper-8",
       "description": "A translucent snail showing its statocyst system, with directional arrows indicating gravitational disorientation.",
-      "imageUrl": "https://images.unsplash.com/photo-1543297123-5a49873b8e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbmFpbCUyMHNwYWNlfGVufDB8fHx8MTc2MDAzNDA4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1543297123-5a49873b8e90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzbmFpbCUyMHNwYWNlfGVufDB8fHx8MTc2MDAzNDA4NHww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "space snail"
     },
     {
       "id": "paper-9",
       "description": "Illustration of a Natural Killer (NK) cell failing to attack a leukemia cell in a microgravity environment.",
-      "imageUrl": "https://images.unsplash.com/photo-1606208197889-f4e8f1894d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8Y3l0b3RveGljfGVufDB8fHx8MTc1OTU4Mzc0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1606208197889-f4e8f1894d6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8Y3l0b3RveGljfGVufDB8fHx8MTc1OTU4Mzc0M3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "immune cells"
     },
     {
       "id": "paper-10",
       "description": "A futuristic 'lab-on-a-chip' device floating in front of a Martian landscape, displaying diagnostic data.",
-      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGV0ZWN0aW9uJTIwc3BhY2V8ZW58MHx8fHwxNzYwMDM0MTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1576086213369-97a306d36557?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWZlJTIwZGV0ZWN0aW9uJTIwc3BhY2V8ZW58MHx8fHwxNzYwMDM0MTk0fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "biosensor space"
     }
   ]
