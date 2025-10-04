@@ -7,4 +7,5 @@ export type ResearchPaper = {
   content: string;
   imageUrl: string;
   imageHint: string;
+  pdfUrl: string;
 };

@@ -2,7 +2,7 @@
 
 import { ResearchPaper } from '@/lib/types';
 import { Button } from '@/components/ui/button';
-import { BotMessageSquare } from 'lucide-react';
+import { BotMessageSquare, ExternalLink } from 'lucide-react';
 import Link from 'next/link';
 
 type PaperDetailClientProps = {
@@ -30,9 +30,12 @@ export default function PaperDetailClient({ paper }: PaperDetailClientProps) {
       </header>
 
       <div className="flex flex-wrap gap-4 mb-8">
-        <p className="text-sm text-muted-foreground">
-            The full paper is available for viewing below.
-        </p>
+        <Button asChild>
+          <a href={paper.pdfUrl} target="_blank" rel="noopener noreferrer">
+            <ExternalLink />
+            View PDF
+          </a>
+        </Button>
         <Button asChild variant="outline">
           <Link href={`/chatbot?paperId=${paper.id}`}>
             <BotMessageSquare />
@@ -46,10 +49,6 @@ export default function PaperDetailClient({ paper }: PaperDetailClientProps) {
           Summary
         </h2>
         <p>{paper.summary}</p>
-        <h2 className="font-headline text-2xl font-semibold border-b border-border pb-2 mt-8">
-          Full Paper
-        </h2>
-        <div className="whitespace-pre-wrap">{paper.content}</div>
       </div>
     </article>
   );

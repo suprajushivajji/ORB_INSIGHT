@@ -29,6 +29,7 @@ Discussion: The survival strategies employed by these terrestrial extremophiles 
 Conclusion: The study of extremophiles in Martian analogue environments demonstrates that life is tenacious and can adapt to conditions previously thought to be uninhabitable. The existence of these terrestrial analogues strengthens the case for searching for extant or extinct life in similar geological settings on Mars. Future missions, such as those equipped with drilling capabilities, should prioritize the investigation of endolithic and subsurface environments.`,
     imageUrl: findImage('paper-1').url,
     imageHint: findImage('paper-1').hint,
+    pdfUrl: 'https://docs.google.com/document/d/1aBcDeFgHiJkLmNoPqRsTuVwXyZ_AbCdEfGhIjKlMnOp/edit?usp=sharing',
   },
   {
     id: '2',
@@ -52,6 +53,7 @@ Future Directions: A probabilistic framework is needed to assess the likelihood 
 Conclusion: The search for atmospheric biosignatures on exoplanets is one of the most exciting frontiers in science. While promising candidates like oxygen and methane have been identified, their interpretation requires caution and a deep understanding of the planetary context. There will likely be no single "smoking gun" for extraterrestrial life; instead, a comprehensive assessment of all available data will be required to build a case. The coming decade of exoplanet characterization promises to be a revolutionary period in our quest to find life beyond Earth.`,
     imageUrl: findImage('paper-2').url,
     imageHint: findImage('paper-2').hint,
+    pdfUrl: 'https://docs.google.com/document/d/1bCdEfGhIjKlMnOp_aBcDeFgHiJkLmNoPqRsTuVwXyZ/edit?usp=sharing',
   },
   {
     id: '3',
@@ -76,5 +78,6 @@ Implications for Astrobiology: The indispensable role of water for life on Earth
 Conclusion: The unique and multifaceted properties of water make it the perfect medium for life as we know it. Its role extends from being a simple solvent to an active participant in the chemistry of life and a key regulator of planetary climate. While we must remain open to the possibility of "life as we don't know it," the "follow the water" strategy remains the most robust and scientifically grounded approach in our search for life elsewhere in the universe.`,
     imageUrl: findImage('paper-3').url,
     imageHint: findImage('paper-3').hint,
+    pdfUrl: 'https://docs.google.com/document/d/1cDeFgHiJkLmNoPqRsTuVwXyZ_AbCdEfGhIjKlMnOpQ/edit?usp=sharing',
   },
 ];
